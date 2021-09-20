@@ -1,1 +1,1 @@
-# memecoin
+# To open the waller, run the -qt file
